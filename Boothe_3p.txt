@@ -1,0 +1,589 @@
+System testing:
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1
+You are in A1.
+You can go in the following directions.
+East
+What direction would you like to go?
+e
+Heading East, you have entered B1
+You can go in the following directions.
+North
+What direction would you like to go?
+n
+Heading North, you have entered B2
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered C3
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B3
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered B4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered B5
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C5
+Oh no! This room is trapped!
+The trap resulted you in ending up in B2.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B2
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+en
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered C3
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B3
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered B4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+e
+That direction is invalid. Please try again.
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered B5
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+west
+Heading west, you have entered A5
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+south
+That direction is invalid. Please try again.
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+north
+Heading North, you have entered A6
+You can go in the following directions.
+East
+South
+What direction would you like to go?
+east
+Heading East, you have entered B6
+Oh no! This room is trapped!
+The trap resulted you in ending up in E5.
+You can go in the following directions.
+East
+West
+What direction would you like to go?
+e
+Heading East, you have entered F5
+You can go in the following directions.
+North
+West
+What direction would you like to go?
+n
+Heading North, you have entered F6
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered G6
+Oh no! This room is trapped!
+The trap resulted you in ending up in F4.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered G4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered G5
+You can go in the following directions.
+East
+South
+What direction would you like to go?
+e
+Heading East, you have entered H5
+You can go in the following directions.
+North
+West
+What direction would you like to go?
+n
+Heading North, you have entered H6
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1
+You are in A1.
+You can go in the following directions.
+East
+What direction would you like to go?
+e
+Heading East, you have entered B1
+You can go in the following directions.
+North
+What direction would you like to go?
+n
+Heading North, you have entered B2
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered C3
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B3
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered B4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered B5
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C5
+Oh no! This room is trapped!
+The trap resulted you in ending up in B2.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B2
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+en
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered C3
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B3
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered B4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+e
+That direction is invalid. Please try again.
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered B5
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+west
+Heading west, you have entered A5
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+south
+That direction is invalid. Please try again.
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+north
+Heading North, you have entered A6
+You can go in the following directions.
+East
+South
+What direction would you like to go?
+east
+Heading East, you have entered B6
+Oh no! This room is trapped!
+The trap resulted you in ending up in E5.
+You can go in the following directions.
+East
+West
+What direction would you like to go?
+e
+Heading East, you have entered F5
+You can go in the following directions.
+North
+West
+What direction would you like to go?
+n
+Heading North, you have entered F6
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered G6
+Oh no! This room is trapped!
+The trap resulted you in ending up in F4.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered G4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered G5
+You can go in the following directions.
+East
+South
+What direction would you like to go?
+e
+Heading East, you have entered H5
+You can go in the following directions.
+North
+West
+What direction would you like to go?
+n
+Heading North, you have entered H6
+Congratulations!You have reached the destination point.
+he nodes: .
+ You visited the nodes: B1B2C2C3B3B4B5C5B2C2B2C2C3B3B4B5A5A6B6E5F5F6G6F4G4G5H5H6
+Notice the errors for the nodes and the spacing of nodes visited. Fixed in the program. Test was retested. 
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1
+You are in A1.
+You can go in the following directions.
+East
+What direction would you like to go?
+e
+Heading East, you have entered B1
+You can go in the following directions.
+North
+What direction would you like to go?
+e
+That direction is invalid. Please try again.
+You can go in the following directions.
+North
+What direction would you like to go?
+n
+Heading North, you have entered B2
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+n
+That direction is invalid. Please try again.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered C3
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+w
+Heading west, you have entered B3
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered B4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered B5
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C5
+Oh no! This room is trapped!
+The trap resulted you in ending up in B2.
+You can go in the following directions.
+East
+South
+West
+What direction would you like to go?
+e
+Heading East, you have entered C2
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+s
+Heading South, you have entered C1
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+e
+Heading East, you have entered D1
+Oh no! This room is trapped!
+The trap resulted you in ending up in G3.
+You can go in the following directions.
+North
+East
+What direction would you like to go?
+n
+Heading North, you have entered G4
+You can go in the following directions.
+North
+South
+West
+What direction would you like to go?
+n
+Heading North, you have entered G5
+You can go in the following directions.
+East
+South
+What direction would you like to go?
+e
+Heading East, you have entered H5
+You can go in the following directions.
+North
+West
+What direction would you like to go?
+n
+Heading North, you have entered H6
+Congratulations!You have reached the destination point.
+You took 17 steps.
+You visited the nodes: B1 B2 C2 C3 B3 B4 B5 C5 B2 C2 C1 D1 G3 G4 G5 H5 H6
+
+Number of nodes visited = 17, hence steps taken. The system continues perfectly. 
+The following is unit testing:
+1. Invalid input of map:
+Please enter the file name of the txt file you wish to use as your maze.
+l
+The file could not be found. Exiting program.
+Also, adding the .txt does invalidate as it wants the title and some map could be called "Maze1.txt.txt" or something similar. The goal of saying "enter the file name of the txt file" is to allow clarity of the desired input (the name excluding extensions).
+Since Maze1.txt exists, consider:
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1.txt
+The file could not be found. Exiting program.
+
+Due to design of program, it protects against a node reference a nonexistent node. With Z1 as a choice for A1, the program rejects this and informs user the maze file is invalid.
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1
+The maze input is invalid. Please try again.
+Please enter the file name of the txt file you wish to use as your maze. 
+Maze1
+You are in A1.
+You can go in the following directions.
+East
+What direction would you like to go?
+e
+Heading East, you have entered B1
+You can go in the following directions.
+North
+What direction would you like to go?
+q
+You have failed to complete the maze or deemed it unsolvable. Exiting the program.
+
+If a user is placed in a room with no way out, the program informs them and asks them to hit q to exit.
+Please enter the file name of the txt file you wish to use as your maze.
+Maze1
+You are in A1.
+You can go in the following directions.
+There is no legal move. Please input q to quit.
+What direction would you like to go?
+q
+You have failed to complete the maze or deemed it unsolvable. Exiting the program.
